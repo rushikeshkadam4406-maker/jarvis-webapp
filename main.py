@@ -26,7 +26,7 @@ GOOGLE_API_KEY = "AIzaSyCxDRnrhWM3O9zaXFp_P4LJs1FbAkugV74"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 gemini_model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-2.5-flash",
     system_instruction=(
         "You are Jarvis, a smart AI voice assistant. "
         "Reply naturally, shortly, and helpfully. "
