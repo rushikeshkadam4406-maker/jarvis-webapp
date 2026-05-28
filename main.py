@@ -17,7 +17,7 @@ import os
 # https://aistudio.google.com
 # =========================================================
 
-GOOGLE_API_KEY = "PASTE_YOUR_GEMINI_API_KEY_HERE"
+GOOGLE_API_KEY = "AIzaSyCKSf1n4GsDhuD544X7g8P2E6vo07XMFoQ"
 
 # =========================================================
 # GEMINI SETUP
