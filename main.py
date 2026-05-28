@@ -14,7 +14,7 @@ import shutil
 # Get free key at: https://aistudio.google.com
 # =========================================
 
-GOOGLE_API_KEY = "your_gemini_api_key_here"
+GOOGLE_API_KEY = "AIzaSyCKSf1n4GsDhuD544X7g8P2E6vo07XMFoQ"
 
 # =========================================
 # GEMINI SETUP
